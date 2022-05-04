@@ -1,8 +1,8 @@
-# include "Individual.cpp"
-# include "Mutator.cpp"
-# include "BitFlip.cpp"
-# include "BitFlipProb.cpp"
-# include "Rearrange.cpp"
+# include "Individual.h"
+# include "Mutator.h"
+# include "BitFlip.h"
+# include "BitFlipProb.h"
+# include "Rearrange.h"
 # include <sstream>
 # include <iostream>
 
